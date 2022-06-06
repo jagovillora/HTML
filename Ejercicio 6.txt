@@ -1,0 +1,4 @@
+Los elementos de bloque siempre empiezan en una línea nueva y ocupan todo el espacio 
+disponible hasta el final de la línea. Esto significa que ocupan la anchura máxima 
+hasta encontrar los límites del elemento contenedor superior. Estos elementos no permiten
+ que otro elemento se pueda colocar a su lado.

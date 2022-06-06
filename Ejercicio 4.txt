@@ -1,0 +1,1 @@
+Se ha reducio el tamaño en 1KB aprox. Esto se debe a la pérdida de la estructura en las tabulaciones del archivo.
